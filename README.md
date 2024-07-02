@@ -1,9 +1,10 @@
-# coffeeMachine
 ### Description
+
 A single page web application build with React.js, & styled with Sass.
 
 ### Functionality
-It has included 6 sections, as required: **Landing**, **Description**, **Top Features**, **Technical Details**, **What's Included** and **Buy Now**. 
+
+It has included 6 sections, as required: **Landing**, **Description**, **Top Features**, **Technical Details**, **What's Included** and **Buy Now**.
 
 For a smooth user experience a **Tracking Navbar** was included which actively highlights the section a user is on at a certain moment.
 
@@ -13,19 +14,22 @@ This web app was build for any type of screen on any device (TV, Desktop, Tablet
 The **Footer** includes a copyright module which has a date function. That date is generated using Javascript in real time. If the year changes, the date changes automatically.
 
 ## Snapshots
-| Desktop | Mobile|
-| --------------------------- |:--------------------------:|
-![](./preview/desktop/1.png) | ![](./preview/mobile/1.png)
-![](./preview/desktop/2.png) | ![](./preview/mobile/2.png)
-![](./preview/desktop/3.png) | ![](./preview/mobile/3.png)
-![](./preview/desktop/4.png) | ![](./preview/mobile/5.png)
-![](./preview/desktop/5.png) | ![](./preview/mobile/4.png)
-![](./preview/desktop/6.png) | ![](./preview/mobile/6.png)
+
+| Desktop                      |           Mobile            |
+| ---------------------------- | :-------------------------: |
+| ![](./preview/desktop/1.png) | ![](./preview/mobile/1.png) |
+| ![](./preview/desktop/2.png) | ![](./preview/mobile/2.png) |
+| ![](./preview/desktop/3.png) | ![](./preview/mobile/3.png) |
+| ![](./preview/desktop/4.png) | ![](./preview/mobile/5.png) |
+| ![](./preview/desktop/5.png) | ![](./preview/mobile/4.png) |
+| ![](./preview/desktop/6.png) | ![](./preview/mobile/6.png) |
 
 ### Live Preview:
+
 [https://vladb.uk/coffeeMachine](https://vladb.uk/coffeeMachine)
 
 ## Completed Test Plan
+
 | Task                                                 | Completed          |
 | ---------------------------------------------------- | ------------------ |
 | Use **React.js** as a front-end framework            | :white_check_mark: |
@@ -44,12 +48,14 @@ The **Footer** includes a copyright module which has a date function. That date 
 | **Animated Content** on Reveal                       | :white_check_mark: |
 | **Real Time Date**                                   | :white_check_mark: |
 | Integrate **Github Pages** for deployment            | :white_check_mark: |
-| Deploy a **production build** for better performance | :white_check_mark: |   
+| Deploy a **production build** for better performance | :white_check_mark: |
 
 ### System Preparation
+
 If you want to use this app, you need to have installed **Node.js** on your machine.
 
 ### Development mode
+
 1. `git clone` this repository into your environment.
 2. `cd` into the app folder.
 3. `npm install` to install all necesesarry dependencies.
